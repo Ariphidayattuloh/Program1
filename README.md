@@ -1,4 +1,3 @@
-# Program1
 
 Nama  : Arip Hidayattuloh
 
@@ -8,7 +7,7 @@ Kelas :TI.20.B.1
 
 UAS   : Bahasa Pemograman
 
-#Pycharm Praktikum6
+#program1
 
 * Buatlah Package dan Module
 
