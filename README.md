@@ -16,16 +16,13 @@ UAS   : Bahasa Pemograman
 ![Untitled](https://user-images.githubusercontent.com/72840534/104262180-b195ce80-54b9-11eb-9678-dc73abb131a4.png)
 
 
-Langkag awal buka Pycarm
-
 
 Buatlah 2 Package = Model dan View, 1 modul = main.py
 
 di dalam Model Paket berisi = init .py dan daftar_nilai.py di dalam Tampilan Paket berisi = init .py, input_nilai.py, view_nilai.py
 
 
-
-Buat Daftar Nilai Seperti Berikut =
+* Buat Daftar Nilai Seperti Berikut
 
 
 
