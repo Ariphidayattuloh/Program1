@@ -15,4 +15,20 @@ Membuat Package & Modul seperti gambar dibawah ini.
 
 Langkag awal buka Pycarm
 
-U
+
+Buatlah 2 Package = Model dan View, 1 modul = main.py
+
+di dalam Model Paket berisi = init .py dan daftar_nilai.py di dalam Tampilan Paket berisi = init .py, input_nilai.py, view_nilai.py
+Buat Daftar Nilai Seperti Berikut =
+
+
+
+Buat Input nilai Seperti Berikut =
+
+
+
+Buat view seperti berikut =
+
+
+
+DAN OUTPUTNYA:
