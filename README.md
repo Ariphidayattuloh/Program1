@@ -35,15 +35,12 @@ Buat Daftar Nilai Seperti Berikut =
 Buat Input nilai Seperti Berikut =
 
 ![3](https://user-images.githubusercontent.com/72840534/104262645-97a8bb80-54ba-11eb-9009-b97d4c03be0c.png)
-
 ![4](https://user-images.githubusercontent.com/72840534/104262798-e3f3fb80-54ba-11eb-9444-274479f1123c.png)
-
 ![5](https://user-images.githubusercontent.com/72840534/104262896-19004e00-54bb-11eb-99a2-891ac1a03c97.png)
 
 Buat view seperti berikut =
 
 ![6](https://user-images.githubusercontent.com/72840534/104263338-00dcfe80-54bc-11eb-8cb3-9632504956e8.png)
-
 ![7](https://user-images.githubusercontent.com/72840534/104263431-2b2ebc00-54bc-11eb-9735-145e1a139bb3.png)
 
 
